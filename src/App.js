@@ -1,7 +1,9 @@
+import Intro from "./components/introduction/Intro";
+
 function App() {
   return (
     <div>
-      <h1>React Mini Boilierplate</h1>
+      <Intro />
     </div>
   );
 }
